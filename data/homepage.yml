@@ -10,11 +10,11 @@ showcase:
   description: "We are a group of students studying in SMU, looking to bring you some insights on Consumer Price Index!"
   image:
     alt: "Showcase keyboard and mouse image"
-    x: "img/image4.png"
-    _2x: "img/image4.png"
+    x: "img/images/image4.jpg"
+    _2x: "img/images/image4.jpg"
   imageMobile:
     alt: "Showcase keyboard and mouse image"
-    x: "images/image4.png"
+    x: "img/images/image4.jpg"
 
   button:
     icon: "icon-mail-fill"
